@@ -1,14 +1,14 @@
 const gallery = document.getElementById('gallery-grid');
 
 const images = [
-  { src: './images/1.jpg', alt: 'Dreamside app screenshot 1' },
-  { src: './images/2.jpg', alt: 'Dreamside app screenshot 2' },
-  { src: './images/3.jpg', alt: 'Dreamside app screenshot 3' },
-  { src: './images/4.jpg', alt: 'Dreamside app screenshot 4' },
-  { src: './images/5.jpg', alt: 'Dreamside app screenshot 5' },
-  { src: './images/6.jpg', alt: 'Dreamside app screenshot 6' },
-  { src: './images/7.jpg', alt: 'Dreamside app screenshot 7' },
-  { src: './images/8.jpg', alt: 'Dreamside app screenshot 8' },
+  { src: './1.jpg', alt: 'Dreamside app screenshot 1' },
+  { src: './2.jpg', alt: 'Dreamside app screenshot 2' },
+  { src: './3.jpg', alt: 'Dreamside app screenshot 3' },
+  { src: './4.jpg', alt: 'Dreamside app screenshot 4' },
+  { src: './5.jpg', alt: 'Dreamside app screenshot 5' },
+  { src: './6.jpg', alt: 'Dreamside app screenshot 6' },
+  { src: './7.jpg', alt: 'Dreamside app screenshot 7' },
+  { src: './8.jpg', alt: 'Dreamside app screenshot 8' },
 ];
 
 if (gallery && images.length > 0) {
